@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
+</div>
+
 
 <div align="center">
   <h1>👋 Hi, I'm Dinithi Ukwatta</h1>
